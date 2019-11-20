@@ -1,0 +1,13 @@
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Core\bin\Debug\Core.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Core\bin\Debug\Core.pdb
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Core\obj\Debug\Core.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Core\obj\Debug\Core.pdb
+D:\learn Concept\clean arch\CleanArchitect\Core\bin\Debug\Core.dll
+D:\learn Concept\clean arch\CleanArchitect\Core\bin\Debug\Core.pdb
+D:\learn Concept\clean arch\CleanArchitect\Core\obj\Debug\Core.dll
+D:\learn Concept\clean arch\CleanArchitect\Core\obj\Debug\Core.pdb
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Core\bin\Debug\Core.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Core\bin\Debug\Core.pdb
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Core\obj\Debug\Core.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Core\obj\Debug\Core.pdb

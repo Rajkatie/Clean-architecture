@@ -1,0 +1,27 @@
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Infrastructure\bin\Debug\Infrastructure.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Infrastructure\bin\Debug\Infrastructure.pdb
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Infrastructure\bin\Debug\Core.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Infrastructure\bin\Debug\StructureMap.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Infrastructure\bin\Debug\Core.pdb
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Infrastructure\bin\Debug\StructureMap.xml
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Infrastructure\obj\Debug\Infrastructure.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\learn Concept\clean arch\CleanArchitect\Infrastructure\bin\Debug\Infrastructure.dll
+D:\learn Concept\clean arch\CleanArchitect\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\learn Concept\clean arch\CleanArchitect\Infrastructure\bin\Debug\Core.dll
+D:\learn Concept\clean arch\CleanArchitect\Infrastructure\bin\Debug\StructureMap.dll
+D:\learn Concept\clean arch\CleanArchitect\Infrastructure\bin\Debug\Core.pdb
+D:\learn Concept\clean arch\CleanArchitect\Infrastructure\bin\Debug\StructureMap.xml
+D:\learn Concept\clean arch\CleanArchitect\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\learn Concept\clean arch\CleanArchitect\Infrastructure\obj\Debug\Infrastructure.dll
+D:\learn Concept\clean arch\CleanArchitect\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Infrastructure\bin\Debug\Infrastructure.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Infrastructure\bin\Debug\Core.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Infrastructure\bin\Debug\StructureMap.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Infrastructure\bin\Debug\Core.pdb
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Infrastructure\bin\Debug\StructureMap.xml
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Infrastructure\obj\Debug\Infrastructure.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\Infrastructure\obj\Debug\Infrastructure.pdb

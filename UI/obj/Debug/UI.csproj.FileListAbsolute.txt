@@ -1,0 +1,119 @@
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\csc.exe
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\System.Collections.Immutable.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\System.Reflection.Metadata.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\vbc.exe
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\VBCSCompiler.exe
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\roslyn\VBCSCompiler.exe.config
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\UI.dll.config
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\UI.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\UI.pdb
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\Microsoft.Web.Infrastructure.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Helpers.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Mvc.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Razor.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Webpages.Deployment.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Webpages.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Webpages.Razor.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Razor.xml
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Webpages.xml
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Webpages.Deployment.xml
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Webpages.Razor.xml
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Helpers.xml
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\System.Web.Mvc.xml
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\obj\Debug\UI.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\obj\Debug\UI.pdb
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\Core.dll
+d:\rajesh.patel\my documents\visual studio 2015\Projects\CleanArchitect\UI\bin\Core.pdb
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\csc.exe
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\vbc.exe
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\VBCSCompiler.exe
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\UI.dll.config
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\UI.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\UI.pdb
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\Core.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\Microsoft.Web.Infrastructure.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\StructureMap.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\StructureMap.Web.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Helpers.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Mvc.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Razor.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Webpages.Deployment.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Webpages.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Webpages.Razor.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\WebActivatorEx.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\Core.pdb
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\StructureMap.xml
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\StructureMap.Web.pdb
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\StructureMap.Web.xml
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Razor.xml
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Webpages.xml
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Webpages.Deployment.xml
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Webpages.Razor.xml
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Helpers.xml
+D:\learn Concept\clean arch\CleanArchitect\UI\bin\System.Web.Mvc.xml
+D:\learn Concept\clean arch\CleanArchitect\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\learn Concept\clean arch\CleanArchitect\UI\obj\Debug\UI.dll
+D:\learn Concept\clean arch\CleanArchitect\UI\obj\Debug\UI.pdb
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\csc.exe
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\System.Collections.Immutable.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\vbc.exe
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\VBCSCompiler.exe
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\roslyn\VBCSCompiler.exe.config
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\UI.dll.config
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\UI.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\UI.pdb
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\Core.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\Microsoft.Web.Infrastructure.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\StructureMap.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\StructureMap.Web.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Helpers.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Mvc.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Razor.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Webpages.Deployment.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Webpages.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Webpages.Razor.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\WebActivatorEx.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\Core.pdb
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\StructureMap.xml
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\StructureMap.Web.pdb
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\StructureMap.Web.xml
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Razor.xml
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Webpages.xml
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Webpages.Deployment.xml
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Webpages.Razor.xml
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Helpers.xml
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\bin\System.Web.Mvc.xml
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\obj\Debug\UI.dll
+D:\rajesh.patel\My Documents\My-Repo\Clean-architecture\UI\obj\Debug\UI.pdb
